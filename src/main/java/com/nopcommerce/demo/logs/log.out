@@ -1,0 +1,6 @@
+2023-02-06 17:02:291 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (1017deb2f82ffb1da02ed8cffcbe0d65)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 17:02:195 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (dc0f1861a9b744676c39ccd43b506bd4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 18:02:564 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (b3083b6417340765dab8cd2bfc0d6774)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 18:02:498 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (2718aa9c463e17c747e870baf9fad68c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 18:02:180 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (f26c622c13b1b133b0d5fb8a75ccd309)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-06 19:02:610 INFO  LoginPage :47 - getting text from : [[ChromeDriver: chrome on WINDOWS (ec71e384c64aa89dc4533232a978fb6e)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
